@@ -1,7 +1,7 @@
 import cv2, time, pandas
 from datetime import datetime
 
-first_frame = None
+first_frame = [mohab, saabneh]
 
 video = cv2.VideoCapture(0, cv2.CAP_DSHOW)
 status_list = [None, None]
